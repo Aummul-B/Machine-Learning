@@ -1,0 +1,3 @@
+Balance Scale data set consists of 5 attributes, 4 as feature attributes and 1 as the target attribute.
+A decision tree built on this data. The data can be found at :https://archive.ics.uci.edu/ml/machine-learning-databases/balance-scale/balance-scale.data
+Using Entropy as the criterion and not using sklearn.
