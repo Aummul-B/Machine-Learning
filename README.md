@@ -1,1 +1,3 @@
-# Machine-Learning projects done under udacity nanodegree course work.
+# Machine-Learning projects:
+1- Machine Learning Nanodegree (Udacity)
+2- Personal
