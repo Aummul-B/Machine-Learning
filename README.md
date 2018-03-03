@@ -10,7 +10,7 @@
     3. Titanic Survival Exploration:
       * 10 feautures used to predict whether the passenger might have survived or not. [Kaggle Page](https://www.kaggle.com/c/titanic) 
 
-    4.  ## Student Intervention:
+    4.  ## [Student Intervention] (https://github.com/sprataps/Machine-Learning/tree/master/Student%20Intervention):
       * Dive in to understand the various factors behind students who pass and who don't. Understand various factors that may indicate whether a student(probable to fail)  needs an intervention or not. Example:
       
         ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Student%20Intervention/Internet.JPG)
