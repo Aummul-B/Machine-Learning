@@ -11,10 +11,11 @@
       * 10 feautures used to predict whether the passenger might have survived or not. [Kaggle Page](https://www.kaggle.com/c/titanic) 
 
     4.  Student Intervention:
-    
+      * Dive in to understand the various factors behind students who pass and who don't. Understand various factors that may indicate whether a student(probable to fail)  needs an intervention or not. Example:
+      
         ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Student%20Intervention/Internet.JPG)
-
-      * Goal is to identify students who might need early intervention. Classification is done to classify students in either of the two           categories based on 30 features. Target value is either the student passed (passed='yes') or not (passed='no'). 
+       
+      * Goal is to identify students who might need early intervention. Total features are 30. Target value is either the student passed (passed='yes') or not (passed='no'). 
 
     5. Others: 
       * Gradient Descent implementation (Python)
