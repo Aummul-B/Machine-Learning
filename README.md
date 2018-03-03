@@ -12,7 +12,7 @@
 
     4.  Student Intervention:
       * Goal is to identify students who might need early intervention. Classification is done to classify students in either of the two           categories based on 30 features.
-          ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Student%20Intervention/Internet.JPG)
+    ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Student%20Intervention/Internet.JPG)
 
     5. Others: 
       * Gradient Descent implementation (Python)
