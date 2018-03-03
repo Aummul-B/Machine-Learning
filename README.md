@@ -17,7 +17,7 @@
       
         ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Student%20Intervention/Internet.JPG)
        
-      * Goal is to identify students who might need early intervention. Total features are 30. Target value is either the student passed (passed='yes') or not (passed='no'). 
+      * Goal is to identify students who might need early intervention. Total features are 30. Target value is either the student passed (passed='yes') or not (passed='no'). [Data](https://www.kaggle.com/c/wacubo-challenge/data)
 
     5. ### Others: 
       * [Gradient Descent implementation (Python)](https://github.com/sprataps/Machine-Learning/tree/master/Gradient_Descent_Example)
