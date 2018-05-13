@@ -24,6 +24,6 @@ a data set of baby names from any possible ethnicity (may be
 Nordic, Somali, Japanese etc.)
 
 ### Approach:
-1- One hot encoding each name using tokens created of varying lengths
-2- Word2Vec approach for catching underlying sequence structure of names by using the context of the tokens.
+1- One hot encoding each name using tokens created of varying lengths <br/>
+2- Word2Vec approach for catching underlying sequence structure of names by using the context of the tokens. <br/>
 3 - KMeans clustering. A threshold to maybe filter out names that are farther atleast this much from their assigned cluster centers
