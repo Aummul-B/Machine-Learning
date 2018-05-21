@@ -4,7 +4,7 @@
    
    ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Predicting%20Deals/Capture.JPG)
    
-   2. ### [Classifying Names : One Class Classifications using OneClassSVM (https://github.com/sprataps/Machine-Learning/tree/master/Names%20Classification)
+   2. ### [Classifying Names : One Class Classifications using OneClassSVM] (https://github.com/sprataps/Machine-Learning/tree/master/Names%20Classification)
    * Given a list of names belonging to Hindu Religion. Target is to classify a name as a Hindu name or an outlier.
    ![alt text](https://github.com/sprataps/Machine-Learning/blob/master/Names%20Classification/Capture.JPG)
    
